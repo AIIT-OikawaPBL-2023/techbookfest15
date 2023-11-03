@@ -10,9 +10,14 @@ CHAPS:
   - chapter6.re
   - chapter7.re
   - chapter8.re
-
+  - chapter9.re
+  - chapter10.re
+  - chapter11.re
+  - chapter12.re
+  - chapter13.re
 
 APPENDIX:
 
 POSTDEF:
+  - conclusion.re
   - contributors.re
