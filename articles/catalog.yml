@@ -2,10 +2,22 @@ PREDEF:
   - preface.re
 
 CHAPS:
-  - article.re
-  - article2.re
+  - chapter1.re
+  - chapter2.re
+  - chapter3.re
+  - chapter4.re
+  - chapter5.re
+  - chapter6.re
+  - chapter7.re
+  - chapter8.re
+  - chapter9.re
+  - chapter10.re
+  - chapter11.re
+  - chapter12.re
+  - chapter13.re
 
 APPENDIX:
 
 POSTDEF:
+  - conclusion.re
   - contributors.re
