@@ -39,8 +39,13 @@
 %  keywordstyle=\bfseries\color{reviewdarkred},%
 %}
 
-%% disable hyperlink color and border
-\hypersetup{hidelinks}
+%% disable hyperlink color and border # hidelinks
+\hypersetup{
+  colorlinks=true,    % リンクに色をつける
+  linkcolor=blue,     % 通常の内部リンクの色
+  filecolor=blue,     % ファイルリンクの色
+  urlcolor=blue       % 外部URLリンクの色
+}
 
 \floatplacement{figure}{H}
 \floatplacement{table}{H}
