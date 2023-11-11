@@ -21,5 +21,6 @@ CHAPS:
 APPENDIX:
 
 POSTDEF:
+  - history.re
   - conclusion.re
   - contributors.re
